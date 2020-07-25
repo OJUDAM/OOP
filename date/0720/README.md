@@ -1,4 +1,4 @@
-#2020월 7월 20일
+# 2020월 7월 20일
 
 `Back-end` : java EE(Enterprise Development) 기업용 앱개발 ==> **servlet/ jsp** 알아야함 !!!
 `Front-end` : HTML, CSS, **JavaScript** ==>React 할 수 있어야함 !!
